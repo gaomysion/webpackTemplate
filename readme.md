@@ -10,4 +10,8 @@
 - 这两个工具支持chrome和firefox
 
 
+###推荐文档
+-[redux](http://cn.redux.js.org//docs/introduction/ThreePrinciples.html "redux")
+
+
 ### 每个文件夹里有个一个readme，说明当前文件夹是什么作用
