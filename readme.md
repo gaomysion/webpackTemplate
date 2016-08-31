@@ -1,5 +1,5 @@
 ###启动方式
-- 首先下载对应的npm包    npn install
+- 首先下载对应的npm包    npm install
 - 启动      npm run start
 - 即可启动
 
