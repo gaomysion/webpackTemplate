@@ -4,4 +4,10 @@
 - 即可启动
 
 
+###推荐工具
+- redux-devtools
+- react-devtools
+- 这两个工具支持chrome和firefox
+
+
 ### 每个文件夹里有个一个readme，说明当前文件夹是什么作用
