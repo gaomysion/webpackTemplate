@@ -8,13 +8,16 @@
 - redux-devtools
 - react-devtools
 - 这两个工具支持chrome和firefox
+immutable-js
 
 
 ###推荐文档
 -[redux中文文档](http://cn.redux.js.org//docs/introduction/ThreePrinciples.html "redux")
 -
 -[腾讯团队的一篇文章，简洁概练](http://www.alloyteam.com/2015/09/react-redux/ "redux")
--http://react-china.org/t/redux/2687
+-[深入](http://react-china.org/t/redux/2687)
+-[深入](https://github.com/lewis617/react-redux-tutorial)
+-[讲解详细案例](https://segmentfault.com/a/1190000003503338)
 
 
 ### 每个文件夹里有个一个readme，说明当前文件夹是什么作用
